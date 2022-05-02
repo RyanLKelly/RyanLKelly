@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RyanLKelly
 - 👀 I’m interested in contributing to a better world for humanity
 - 🌱 I’m currently learning GitHub!
-- 📫 How to reach me:  ryankelly04@gmail.com
+- 📫 How to reach me:  ryankelly04_at_gmaildotcom
 
 <!---
 RyanLKelly/RyanLKelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
